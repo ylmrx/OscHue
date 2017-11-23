@@ -227,3 +227,9 @@ gain
 Browser
 -------
 
+
+
+Modified to work with Philips Hue
+---------------------------------
+
+Checkout LO2MixerComponent.py to use the Philips. Pretty self explanatory
