@@ -1,6 +1,15 @@
 LiveOSC2
 ========
 
+Note
+----
+
+Based on this awesome work : https://github.com/stufisher/LiveOSC2
+I just added a feature
+
+Desc
+----
+
 New version of LiveOSC for Live 9. Added various new functionality from L9, like the ability to create / delete clips. Assign devices from the browser, more detailed manipulation of midi clip, as well as various new listeners
 
 I have tidied up most of the calls to group them by type, as well as removing what i believe to be redundant calls. If you think things are missing please get in touch.
